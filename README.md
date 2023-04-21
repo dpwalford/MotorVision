@@ -1,4 +1,6 @@
 ![Screenshot 2023-04-15 173950](https://user-images.githubusercontent.com/122492766/232254293-39ddb9dc-0b91-4b3e-a5b0-2e332e600023.png)
+![alt text](https://www.pressenterprise.com/wp-content/uploads/2019/09/RPE-L-TRAFFIC-0930-1.jpg?w=1024)
+
 # About MOTORVISION
 MOTORVISION is a adaptation of AlexNet that sorts Semi-trucks and Cars. Below are a few points of importance.
 ## Why an AlexNet to Sort Cars and Semitrucks is Important

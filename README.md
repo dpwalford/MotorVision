@@ -27,4 +27,4 @@ MOTORVISION is a adaptation of AlexNet that sorts Semi-trucks and Cars. Below ar
 # Link to Google Slide Presentation
 [Open in Google Slides](https://docs.google.com/presentation/d/1hrCd9ACil1yHp_LnTy6Y_aJYg1F-n2F0RlHX7pCT75o/edit?usp=sharing)
 
-![alt text](https://www.pressenterprise.com/wp-content/uploads/2019/09/RPE-L-TRAFFIC-0930-1.jpg?w=1024)
+

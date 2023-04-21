@@ -15,7 +15,7 @@ MOTORVISION is a adaptation of AlexNet that sorts Semi-trucks and Cars. Below ar
 - **Potential for scalability:** AlexNet's ability to handle large datasets and complex image recognition tasks makes it a promising candidate for scaling up to other types of vehicles or even other industries beyond transportation.
 
 # Video Description of my AlexNet
-[![Video Presntation][(https://img.youtube.com/vi/YqS-fjIgKGyc/0.jpg)](https://www.youtube.com/watch?v=qS-fjIgKGyc)
+[![Video Presntation](https://img.youtube.com/vi/YqS-fjIgKGyc/0.jpg)](https://www.youtube.com/watch?v=qS-fjIgKGyc)
 
 
 
